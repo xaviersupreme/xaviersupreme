@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">xaviersupreme</h1>
 
-<!--
-**xaviersupreme/xaviersupreme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/github/followers/xaviersupreme?style=flat" />
+  <img src="https://img.shields.io/github/stars/xaviersupreme?style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=xaviersupreme&label=views" />
+</p>
 
-Here are some ideas to get you started:
+## projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/xaviersupreme/NBF9000">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xaviersupreme&repo=NBF9000&theme=dark&border_radius=6" />
+  </a>
+  <a href="https://github.com/xaviersupreme/raknet-wrapper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xaviersupreme&repo=raknet-wrapper&theme=dark&border_radius=6" />
+  </a>
+</p>
+
+---
+
+## stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xaviersupreme&show_icons=true&theme=dark&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaviersupreme&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## stack
+- luau
+- typescript
+- python
