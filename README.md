@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=xaviersupreme&label=views" />
 </p>
 
-## projects
+<h2 align="center">projects</h2>
 
 <p align="center">
   <a href="https://github.com/xaviersupreme/NBF9000">
@@ -17,9 +17,9 @@
   </a>
 </p>
 
----
+<hr />
 
-## stats
+<h2 align="center">stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xaviersupreme&show_icons=true&theme=dark&hide_border=true" />
@@ -27,9 +27,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaviersupreme&layout=compact&theme=dark&hide_border=true" />
 </p>
 
----
+<hr />
 
-## stack
-- luau
-- typescript
-- python
+<h2 align="center">stack</h2>
+
+<p align="center">
+  luau<br>
+  typescript<br>
+  python
+</p>
