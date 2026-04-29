@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/xaviersupreme?style=flat" />
   <img src="https://img.shields.io/github/stars/xaviersupreme?style=flat" />
-  <img src="https://komarev.com/ghpvc/?username=xaviersupreme&label=views" />
+  <img src="https://komarev.com/ghpvc/?username=xaviersupreme&color=blue" />
 </p>
 
 <h2 align="center">projects</h2>
