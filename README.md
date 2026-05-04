@@ -28,18 +28,6 @@
   
 </p>
 
-<hr />
-
-<h2 align="center">stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xaviersupreme&show_icons=true&theme=dark&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaviersupreme&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<hr />
-
 <h2 align="center">stack</h2>
 
 <p align="center">
