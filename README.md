@@ -10,22 +10,20 @@
 
 <p align="center">
   <a href="https://github.com/xaviersupreme/NBF9000">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xaviersupreme&repo=NBF9000&theme=dark&border_radius=6" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=xaviersupreme&repo=NBF9000&theme=dark&border_radius=6" />
   </a>
   <a href="https://github.com/xaviersupreme/raknet-wrapper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xaviersupreme&repo=raknet-wrapper&theme=dark&border_radius=6" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=xaviersupreme&repo=raknet-wrapper&theme=dark&border_radius=6" />
   </a>
-   </a>
   <a href="https://github.com/xaviersupreme/LunarDMG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xaviersupreme&repo=LunarDMG&theme=dark&border_radius=6" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=xaviersupreme&repo=LunarDMG&theme=dark&border_radius=6" />
   </a>
   <a href="https://github.com/xaviersupreme/Project2016">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xaviersupreme&repo=Project2016&theme=dark&border_radius=6" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=xaviersupreme&repo=Project2016&theme=dark&border_radius=6" />
   </a>
   <a href="https://github.com/xaviersupreme/hcc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xaviersupreme&repo=hcc&theme=dark&border_radius=6" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=xaviersupreme&repo=hcc&theme=dark&border_radius=6" />
   </a>
-  
 </p>
 
 <h2 align="center">stack</h2>
