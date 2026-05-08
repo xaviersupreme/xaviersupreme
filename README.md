@@ -31,5 +31,5 @@
 <p align="center">
   luau<br>
   typescript<br>
-  python
+  java
 </p>
