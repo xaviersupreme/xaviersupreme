@@ -22,11 +22,3 @@
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=xaviersupreme&repo=Project2016&theme=dark&border_radius=6" />
   </a>
 </p>
-
-<h2 align="center">stack</h2>
-
-<p align="center">
-  luau<br>
-  typescript<br>
-  java
-</p>
